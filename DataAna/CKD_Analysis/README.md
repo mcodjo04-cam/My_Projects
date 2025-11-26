@@ -80,7 +80,8 @@ Comprendre la maladie rénale chronique(CHU Lille)
 ---
 ## Informations tirees des revues
 
-**Variables** importantes : creatinine ,albumine,diabete , hypertension 
+**Variables importantes**: creatinine ,albumine,diabete , hypertension 
+
 Au fur et à mesure que le CKD s'aggrave, le risque de complications augmente:
     -Pression artérielle élevée
     -Anémie (faible taux de globules rouges)
