@@ -1,7 +1,8 @@
 # **Analyse et prédiction de la maladie rénale chronique (CKD)**
 ![](https://sf.topsante.com/wp-content/uploads/topsante/2023/09/reins-quels-sont-leurs-principaux-ennemis-qui-peuvent-mener-insuffisance-renale-750x410.jpg)
 
-**CODJO Merveille**  
+
+                             **CODJO Merveille**  
 
 ---
 
