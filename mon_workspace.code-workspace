@@ -1,0 +1,39 @@
+{
+    "folders": [
+        {
+            "name": "🐍 Python",
+            "path": "./Python"
+        },
+        {
+            "name": "📊 R",
+            "path": "./R"
+        },
+        {
+            "name": "🧬 Bioinformatique",
+            "path": "./Bioinformatique"
+        },
+        {
+            "name": "📝 NLP",
+            "path": "./NLP"
+        },
+        {
+            "name": "🤖 Machine Learning",
+            "path": "./MachineLearning"
+        },
+        {
+            "name": "🎯 Optimisation",
+            "path": "./Optimisation"
+        },
+        {
+            "name": "🌐 Web Dev",
+            "path": "./WebDev"
+        },
+        {
+            "name": "📄 Rapports",
+            "path": "./Rapports"
+        }
+    ],
+    "settings": {
+        "python.defaultInterpreterPath": "/home/merveille/miniconda3/bin/python"
+    }
+}
