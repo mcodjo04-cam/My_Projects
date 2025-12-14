@@ -1,0 +1,74 @@
+{
+  "id": "20251214_164743",
+  "title": "👨‍⚕️ Quelles sont les spécialités disponibles ?",
+  "timestamp": "2025-12-14T17:51:55.163375",
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "👋 **Bonjour et bienvenue au CHIC !**\n\nJe suis votre assistant virtuel du **Centre Hospitalier International de Calavi**.\n\nJe peux vous aider avec :\n- 📍 **Localisation** : Où nous trouver\n- ⏰ **Horaires** : Quand nous consulter\n- 👨‍⚕️ **Spécialités** : Nos services médicaux\n- 📞 **Rendez-vous** : Comment prendre RDV\n- 💰 **Paiement** : Modalités et assurances\n- 🔬 **Examens** : Imagerie et analyses\n\n**Posez-moi votre question !** 😊"
+    },
+    {
+      "role": "user",
+      "content": "👨‍⚕️ Quelles sont les spécialités disponibles ?"
+    },
+    {
+      "role": "assistant",
+      "content": "Voici les spécialités disponibles au CHIC : 🏥\n\n* **Cardiologie** 🫀\n* **Pneumologie** 🫁\n* **Médecine interne** 🩺\n* **Diabétologie** 🩸\n* **Néphrologie** 🫘\n* **Oncologie médicale** 🎗️\n* **Ophtalmologie** 👀\n* **Imagerie médicale** 📸 (scanner TDM, IRM, échographie)\n\nN'oubliez pas de prendre rendez-vous pour les consultations spécialisées et les examens techniques.  📞 [https://www.chichopital.bj](https://www.chichopital.bj)\n\n\n",
+      "sources": "\n\n---\n📚 **Sources:** `informations_cles_chic.txt`"
+    },
+    {
+      "role": "user",
+      "content": "Quelles sont les spécialités disponibles actuellement?"
+    },
+    {
+      "role": "assistant",
+      "content": "Voici les spécialités médicales disponibles au CHIC : 🏥\n\n* **Rhumatologie** 🦴\n* **Cardiologie** ❤️‍🔥\n* **Hépato-gastroentérologie** 🩺\n* **Pneumologie** 🫁\n* **Diabétologie** 🩸\n* **Néphrologie** 💧\n* **Oncologie** 🎗️\n* **Ophtalmologie** 👀\n* **Médecine interne** 👨‍⚕️\n* **Diététique** 🍎\n\nD'autres spécialités ouvriront prochainement, notamment l'ORL, l'odontologie et l'urologie.  👂🦷\n\nN'hésitez pas à contacter le CHIC pour plus d'informations! 😊 \n",
+      "sources": "\n\n---\n📚 **Sources:** `informations_cles_chic.txt`"
+    },
+    {
+      "role": "user",
+      "content": "ou chic se situe"
+    },
+    {
+      "role": "assistant",
+      "content": "Le CHIC est situé à Calavi, au Bénin 🇧🇯.  \n\n[Google Maps](https://www.google.com/maps/?q=Centre+Hospitalier+International+de+Calavi)\n\n\n**Note:** Je n'ai pas d'informations sur l'adresse exacte du CHIC. \n",
+      "sources": "\n\n---\n📚 **Sources:** `informations_cles_chic.txt`"
+    },
+    {
+      "role": "user",
+      "content": "R : Le Centre Hospitalier International de Calavi est situé à Abomey-Calavi, à 18 km de Cotonou, en face du Tribunal de première instance de Calavi, Bénin."
+    },
+    {
+      "role": "assistant",
+      "content": "Le Centre Hospitalier International de Calavi (CHIC) se trouve à Abomey-Calavi, à seulement 18 km de Cotonou, en face du Tribunal de première instance de Calavi, Bénin.  \n\n**Voici les informations clés sur le CHIC :**\n\n* **Localisation:** Abomey-Calavi, Bénin (face au Tribunal de première instance de Calavi)\n* **Accès:** 18 km de Cotonou\n* **Site web:** https://www.chichopital.bj\n* **Google Maps:** https://www.google.com/maps/search/Centre+Hospitalier+International+de+Calavi+(CHIC)\n\n**Horaires et rendez-vous :** \n* Les administrations, consultations et examens ont lieu du lundi au vendredi de 08h00 à 17h00, uniquement sur rendez-vous. \n* L'établissement est ouvert 24h/24 pour l'hospitalisation.\n\n**Services disponibles:**\n* Cardiologie\n* Pneumologie\n* Médecine interne\n* Diabétologie\n* Néphrologie\n* Oncologie médicale\n* Ophtalmologie\n* Imagerie médicale (scanner et IRM)\n* Laboratoire\n* Dialyse\n* Check-up Center \n\n**Services à venir:**\n* Radiothérapie\n* Curiethérapie\n* Médecine nucléaire\n* Chirurgie cardiaque\n* ORL\n* Urologie\n* Neurochirurgie\n* Traumatologie\n* Bloc opératoire complet de 9 salles.\n\n\n**Urgences et ambulances :**\n*  Le CHIC n'accepte pas les urgences actuellement. Un service d'urgence n'est pas encore opérationnel. \n*  Pas d'ambulance disponible. Suivez nos canaux officiels pour être informé.\n\n**Informations sur les tarifs:**\n* Les tarifs des services sont disponibles en ligne sur le site web du CHIC (https://www.chichopital.bj). Vous pouvez également consulter la grille tarifaire complète en format PDF: https://legrandmono.bj/wp-content/uploads/2025/06/tarifs-centre-hospitalier-international-de-calavi.pdf\n* Les paiements se font avant la consultation ou les soins. La prise en charge par assurance est possible uniquement si une convention existe avec le CHIC.\n\n**Pour prendre rendez-vous :**",
+      "sources": "\n\n---\n📚 **Sources:** `informations_cles_chic.txt`"
+    },
+    {
+      "role": "user",
+      "content": "Le CHIC est situé où?"
+    },
+    {
+      "role": "assistant",
+      "content": "Le Centre Hospitalier International de Calavi (CHIC) se trouve à Abomey-Calavi, à 18 km de Cotonou, en face du Tribunal de première instance de Calavi, Bénin.  🗺️\n\n[Site web](https://www.chichopital.bj) | [Google Maps](https://www.google.com/maps/search/Centre+Hospitalier+International+de+Calavi+(CHIC)) \n",
+      "sources": "\n\n---\n📚 **Sources:** `informations_cles_chic.txt`"
+    },
+    {
+      "role": "user",
+      "content": "Puis-je consulter sans prescription médicale ?"
+    },
+    {
+      "role": "assistant",
+      "content": "Oui, vous pouvez consulter au CHIC sans prescription médicale pour certaines consultations spécialisées 🩺.  Cependant, certains actes techniques ou examens spécifiques nécessitent une prescription ou un courrier d'adressage. 📝\n\nPour prendre rendez-vous, veuillez contacter le service dédié au +229 01 21 400 111 du lundi au vendredi de 08h00 à 17h00, ou utilisez le système de prise de rendez-vous en ligne sur [https://www.chichopital.bj](https://www.chichopital.bj).  \n\n[https://www.chichopital.bj](https://www.chichopital.bj)\n",
+      "sources": "\n\n---\n📚 **Sources:** `informations_cles_chic.txt`"
+    },
+    {
+      "role": "user",
+      "content": "Réponse :\nOui. Il est possible de consulter au CHIC sans prescription médicale, à condition de prendre un rendez-vous à l’avance auprès de l’hôpital.\nCependant, certains actes techniques ou examens spécialisés (comme l’imagerie médicale ou les explorations fonctionnelles) peuvent exiger une prescription ou un courrier d’adressage du médecin pour être réalisés. \nmediapublic.net\n\n📞 Prise de rendez-vous : +229 01 21 400 111 (du lundi au vendredi, de 08h00 à 17h00) \nmediapublic.net\n\n📚 Source :\nLe Centre Hospitalier International de Calavi propose des consultations sur rendez-vous, accessibles même sans ordonnance, mais certains examens techniques peuvent nécessiter une prescription. \nmediapublic.net"
+    },
+    {
+      "role": "assistant",
+      "content": "Oui, il est possible de consulter au CHIC sans prescription médicale, à condition de prendre un rendez-vous à l’avance auprès de l’hôpital.  Cependant, certains actes techniques ou examens spécialisés (comme l’imagerie médicale ou les explorations fonctionnelles) peuvent exiger une prescription ou un courrier d’adressage du médecin pour être réalisés. \n\n**Pour prendre rendez-vous:**\n📞 Prise de rendez-vous : +229 01 21 400 111 (du lundi au vendredi, de 08h00 à 17h00) \n\n**Informations complémentaires:**\n📚 Source :  Le Centre Hospitalier International de Calavi propose des consultations sur rendez-vous, accessibles même sans ordonnance, mais certains examens techniques peuvent nécessiter une prescription. \nmediapublic.net\n\n\n",
+      "sources": "\n\n---\n📚 **Sources:** `informations_cles_chic.txt`"
+    }
+  ]
+}
