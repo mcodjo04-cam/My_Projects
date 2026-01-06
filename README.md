@@ -5,7 +5,7 @@ Bienvenue dans mon dépôt regroupant mes projets en **Data Analysis**, **Machin
 ---
 
 ## 🧠 À propos de moi
-Je suis passionnée par la**bioinformatique**,l’**analyse des données**, l’**intelligence artificielle** et l’**apprentissage automatique**.  
+Je suis passionnée par la **bioinformatique**,l’**analyse des données**, l’**intelligence artificielle** et l’**apprentissage automatique**.  
 Ce dépôt regroupe mes travaux pratiques, projets scolaires et projets personnels.
 
 ---
