@@ -1,0 +1,17 @@
+venv/
+env/
+ENV/
+.venv/
+
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter
+.ipynb_checkpoints
+
+# Données
+*.csv
+*.zip

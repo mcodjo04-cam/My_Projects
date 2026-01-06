@@ -1,8 +1,0 @@
-name: data_projet_migre
-channels:
-  - conda-forge
-  - defaults
-dependencies:
-  - python=3.11
-  - pip
-  - jupyterlab # Si besoin
