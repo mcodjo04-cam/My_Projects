@@ -5,7 +5,7 @@ Bienvenue dans mon dépôt regroupant mes projets en **Data Analysis**, **Machin
 ---
 
 ## 🧠 À propos de moi
-Je suis passionnée par l’**analyse des données**, l’**intelligence artificielle** et l’**apprentissage automatique**.  
+Je suis passionnée par la**bioinformatique**,l’**analyse des données**, l’**intelligence artificielle** et l’**apprentissage automatique**.  
 Ce dépôt regroupe mes travaux pratiques, projets scolaires et projets personnels.
 
 ---
@@ -43,15 +43,15 @@ Ce dépôt regroupe mes travaux pratiques, projets scolaires et projets personne
 - **Machine Learning** : Scikit-learn, régression, classification
 - **Deep Learning** : PyTorch, TensorFlow (en cours)
 - **NLP** : NLTK, spaCy, transformers
-- **Outils** : Git, GitHub, Jupyter, VS Code
+- **Outils** : Git, GitHub, Jupyter, VS Code,Latex,Exel
 
 ---
 
 ## 📫 Contact
 - GitHub : [mcodjo04-cam](https://github.com/mcodjo04-cam)  
-- LinkedIn : *(ajoute ton lien)*  
-- Email : *(optionnel)*
+- LinkedIn : *linkedin.com/in/christamour-merveille-codjo-98135b303*  
+- Email : *mcodjo04@gmail.com*
 
 ---
 
-✨ Objectif : Ce dépôt sert de **portfolio personnel**, pour montrer mon évolution et mes compétences en Data Science et Machine Learning.
+✨ Objectif : Ce dépôt sert de **portfolio personnel**, pour montrer mon évolution et mes compétences en Bioinformatique, Data Science et Machine Learning.
